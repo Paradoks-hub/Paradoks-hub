@@ -6,9 +6,9 @@
 - 👾 my name is `rimuru`
 - 👾 live in `tensura`
 - 👾 skil :
-   - ☠️ `great-sage`
+   - ☠️ `great-sage` [🤖](https://github.com/rusdy-cyber/great-sage)
    - ☠️ `wisdom-king-rafaile`
-   - ☠️ `manas-ciel`
+   - ☠️ `manas-ciel` [🤖](https://github.com/rusdy-cyber/manas-ciel)
    - ☠️ `void-got-azatod`
 <!--
 **Paradoks-hub/Paradoks-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
